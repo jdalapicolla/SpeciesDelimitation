@@ -11,4 +11,5 @@ __02.RScripts:__ R Scritps for editing inputs for analyses:
 
 * A. Splitting a phylip alignment into two datasets;
 * B. Estimate bootstraps below 50% in Paup/SVDQuartets;
-* C. Preparing outputs from ipyrad to BP&P and iBP&P inputs;
+* C. Preparing outputs from *ipyrad* to BP&P and iBP&P inputs;
+* D. Preparing morphometric data to iBP&P inputs;
