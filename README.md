@@ -2,10 +2,10 @@
 
 Scripts and Datasets for Phylogenomics of spiny rats - Genus *Proechimys*
 
-Used in Dalapicolla et al. 2023. Phylogenomics and species delimitation of an abundant and little-studied Amazonian forest spiny rat. DOI:
+Used in Dalapicolla et al. 2024. Phylogenomics and species delimitation of an abundant and little-studied Amazonian forest spiny rat. DOI:
 
 ## How to cite:
-> Dalapicolla et al., DOI:
+> Dalapicolla et al., 2024. Phylogenomics and species delimitation of an abundant and little-studied Amazonian forest spiny rat. Molecular Phylogenetics and Evolution. DOI:
 >
 
 ### Folders
