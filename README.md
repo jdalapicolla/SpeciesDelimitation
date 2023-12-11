@@ -2,7 +2,7 @@
 
 Scripts and Datasets for Phylogenomics of spiny rats - Genus *Proechimys*
 
-Used in Dalapicolla et al. 2023, DOI:
+Used in Dalapicolla et al. 2023. Phylogenomics and species delimitation of an abundant and little-studied Amazonian forest spiny rat. DOI:
 
 ## How to cite:
 > Dalapicolla et al., DOI:
@@ -17,3 +17,4 @@ __02. RScripts:__ R Scritps for editing inputs for analyses:
 * B. Estimate bootstraps below 50% in Paup/SVDQuartets;
 * C. Preparing outputs from *ipyrad* to BP&P and iBP&P inputs;
 * D. Preparing morphometric data to iBP&P inputs - with auxiliary functions: normalidade.R, contar_NA.R and outliers.R;
+* E. Repeatability for Morphometric Data.
